@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/BImFz3d-S1QAAAAi/bird-freedom.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/winnie_thepooh.jpg"  />
 </div>
 
 ###
