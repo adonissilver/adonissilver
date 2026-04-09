@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/winnie_thepooh.jpg"  />
+  <img height="200" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png"  />
 </div>
 
 ###
