@@ -2,6 +2,16 @@
   <img width="100%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png" />
 </div>
 
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 ###
 
 <h1 align="center">Hey 👋What's Up?</h1>
