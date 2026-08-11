@@ -5,9 +5,13 @@
 
 <!-- 📖 DISCIPLINAS -->
 
+<div align="center">
+
+
+
 
 <h2>📖 Disciplinas de Estudo </h2>
-## 📖 Disciplinas
+
 
 ### [🏥 Estruturação e Organização do Sistema Único de Saúde](#)
 
@@ -26,6 +30,8 @@
 ### [🚀 Projeto Integrador de Competências I](#)
 
 ### [🖥️ Sistemas Operacionais](#)
+
+
 
 
 
