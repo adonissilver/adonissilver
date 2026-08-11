@@ -6,7 +6,7 @@
 <!-- 📖 DISCIPLINAS -->
 
 
-<h2>📖 Disciplinas</h2>
+<h2>📖 Disciplinas de Estudo </h2>
 ## 📖 Disciplinas
 
 ### [🏥 Estruturação e Organização do Sistema Único de Saúde](#)
