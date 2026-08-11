@@ -7,6 +7,35 @@
 
 <div align="center">
   <img width="100%" height= "100%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/back.jpeg" />
+<a href="#sus">⭐ SUS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<a href="#web">☄️ WEB</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#nosql">🪐 NoSQL</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adonissilver/Desenvolvimento-de-Algoritmos">⭐ ALGO</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adonissilver/Engenharia-de-Software">⭐ ENG.SW</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+<a href="https://github.com/adonissilver/poo_2n">⭐ POO</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adonissilver/Extensao2">⭐ EXT 2</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adonissilver/PIC2">⭐ EXT 2</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/adonissilver/Sistemas-Operacionais">⭐ SO</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  
 </div>
 
 
