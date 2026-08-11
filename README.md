@@ -12,7 +12,7 @@
 
   <!-- Background -->
   <image
-    href="background.jpg"
+    href="backg.jpeg"
     width="1200"
     height="500"
     preserveAspectRatio="xMidYMid slice"
