@@ -2,6 +2,57 @@
   <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png" />
 </div>
 
+
+<!-- 📖 DISCIPLINAS -->
+
+<a href="#">
+    <h2>🏥 Estruturação e Organização do Sistema Único de Saúde</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>🌐 Aplicações Web</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>🗄️ Banco de Dados Não Relacionais</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>🧮 Desenvolvimento de Algoritmos</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>⚙️ Engenharia de Software</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>💻 Programação Orientada a Objetos</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>📢 Atividades de Extensão II</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>🚀 Projeto Integrador de Competências I</h2>
+</a>
+<br>
+
+<a href="#">
+    <h2>🖥️ Sistemas Operacionais</h2>
+</a>
+<br>
+```
+
+
+
 ## My Contribution Graph
 
 <picture>
