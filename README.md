@@ -1,12 +1,12 @@
-<div align="center">
+<!-- <div align="center">
   <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png" />
-</div>
+  <!--  </div>
 
 
 <!-- 📖 DISCIPLINAS -->
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png" />
+  <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/back.jpeg" />
 </div>
 
 
