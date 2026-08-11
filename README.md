@@ -21,7 +21,7 @@
 
 ### [🗄️ Banco de Dados Não Relacionais](#)
 
-### [🧮 Desenvolvimento de Algoritmos](#)
+### [🧮 Desenvolvimento de Algoritmos](https://github.com/adonissilver/Desenvolvimento-de-Algoritmos)
 
 ### [⚙️ Engenharia de Software](#)
 
