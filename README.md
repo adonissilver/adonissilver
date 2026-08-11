@@ -7,43 +7,25 @@
 
 
 <h2>📖 Disciplinas</h2>
+## 📖 Disciplinas
 
-<a href="#">
-    <h3>🏥 Estruturação e Organização do Sistema Único de Saúde</h3>
-</a>
+### [🏥 Estruturação e Organização do Sistema Único de Saúde](#)
 
-<a href="#">
-    <h3>🌐 Aplicações Web</h3>
-</a>
+### [🌐 Aplicações Web](#)
 
-<a href="#">
-    <h3>🗄️ Banco de Dados Não Relacionais</h3>
-</a>
+### [🗄️ Banco de Dados Não Relacionais](#)
 
-<a href="#">
-    <h3>🧮 Desenvolvimento de Algoritmos</h3>
-</a>
+### [🧮 Desenvolvimento de Algoritmos](#)
 
-<a href="#">
-    <h3>⚙️ Engenharia de Software</h3>
-</a>
+### [⚙️ Engenharia de Software](#)
 
-<a href="https://github.com/adonissilver/poo_2n">
-    <h3>💻 Programação Orientada a Objetos</h3>
-</a>
+### [💻 Programação Orientada a Objetos](https://github.com/adonissilver/poo_2n)
 
-<a href="#">
-    <h3>📢 Atividades de Extensão II</h3>
-</a>
+### [📢 Atividades de Extensão II](#)
 
-<a href="#">
-    <h3>🚀 Projeto Integrador de Competências I</h3>
-</a>
+### [🚀 Projeto Integrador de Competências I](#)
 
-<a href="#">
-    <h3>🖥️ Sistemas Operacionais</h3>
-</a>
-
+### [🖥️ Sistemas Operacionais](#)
 
 
 
