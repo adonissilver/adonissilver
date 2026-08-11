@@ -7,6 +7,16 @@
 
 <div align="center">
 
+<svg width="1200" height="500" viewBox="0 0 1200 500"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <image
+    href="background.jpg"
+    width="1200"
+    height="500"
+    preserveAspectRatio="xMidYMid slice"
+  />
 
 
 
