@@ -6,17 +6,9 @@
 <!-- 📖 DISCIPLINAS -->
 
 <div align="center">
+  <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/gpt%20kamile%20vit%20walle.png" />
+</div>
 
-<svg width="1200" height="500" viewBox="0 0 1200 500"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background -->
-  <image
-    href="https://github.com/adonissilver/adonissilver/blob/main/back.jpeg"
-    width="1200"
-    height="500"
-    preserveAspectRatio="xMidYMid slice"
-  />
 
 
 
