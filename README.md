@@ -6,7 +6,7 @@
 <!-- 📖 DISCIPLINAS -->
 
 <div align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/back.jpeg" />
+  <img width="100%" height= "100%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/back.jpeg" />
 </div>
 
 
