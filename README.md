@@ -1,8 +1,12 @@
 
-<div align="center">
-  <img width="100%" height= "100%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/back.jpeg" />
+## My Contribution Graph
 
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <h2>📖 Disciplinas de Estudo </h2>
 
@@ -30,13 +34,6 @@
 
 
 
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adonissilver/adonissilver/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
