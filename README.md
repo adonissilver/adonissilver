@@ -4,14 +4,6 @@
 
 </div>
 
-
-<div align="center">
-  <img width="100%" height= "100%" src="https://raw.githubusercontent.com/adonissilver/profcode/refs/heads/main/backgalaxy.mp4" />
-
-</div>
-
-
-
 <h2>📖 Disciplinas de Estudo </h2>
 
 
