@@ -27,7 +27,7 @@
 
 ### [🚀 Projeto Integrador de Competências I](#)
 
-### [🖥️ Sistemas Operacionais](#)
+### [🖥️ Sistemas Operacionais](https://github.com/adonissilver/Sistemas-Operacionais)
 
 
 
