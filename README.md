@@ -25,7 +25,7 @@
 
 ### [📢 Atividades de Extensão II](https://github.com/adonissilver/Atividades-de-Extensao-II)
 
-### [🚀 Projeto Integrador de Competências I](#)
+### [🚀 Projeto Integrador de Competências I](https://github.com/isaacjesusjj/PIC)
 
 ### [🖥️ Sistemas Operacionais](https://github.com/adonissilver/Sistemas-Operacionais)
 
