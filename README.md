@@ -23,7 +23,7 @@
 
 ### [💻 Programação Orientada a Objetos](https://github.com/adonissilver/poo_2n)
 
-### [📢 Atividades de Extensão II](#)
+### [📢 Atividades de Extensão II](https://github.com/adonissilver/Atividades-de-Extensao-II)
 
 ### [🚀 Projeto Integrador de Competências I](#)
 
