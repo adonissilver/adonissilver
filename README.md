@@ -10,7 +10,7 @@
 
 <h2>📖 Disciplinas de Estudo </h2>
 
-
+### [2sem]
 ### [🏥 Estruturação e Organização do Sistema Único de Saúde](https://github.com/adonissilver/Estrutura-e-Organizacao-do-Sistema-Unico-de-Saude)
 
 ### [🌐 Aplicações Web](https://adonissilver.github.io/Aplicacoes-Web/index.html)
@@ -28,6 +28,27 @@
 ### [🚀 Projeto Integrador de Competências I](https://github.com/isaacjesusjj/PIC)
 
 ### [🖥️ Sistemas Operacionais](https://github.com/adonissilver/Sistemas-Operacionais)
+
+
+### [1sem]
+### [🖥️ Banco de Dados e Aplicações](https://github.com/adonissilver)
+
+### [🖥️ Desenvolvimento Web](https://github.com/adonissilver)
+
+### [🖥️ Engenharia de Requisitos](https://github.com/adonissilver)
+
+### [🖥️ Infraestrutura de TI](https://github.com/adonissilver)
+
+### [🖥️ Programação de Computadores](https://github.com/adonissilver)
+
+### [🖥️ Redes e Segurança da Informação](https://github.com/adonissilver)
+
+### [🖥️ Tecnologias da Informação Aplicadas à Saúde](https://github.com/adonissilver)
+  
+    
+    
+    
+    
 
 
 
